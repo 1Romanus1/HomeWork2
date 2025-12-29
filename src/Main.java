@@ -92,7 +92,7 @@ public class Main {
         System.out.println(dayOne);
         System.out.println(dayTwo);
         System.out.println(middleDay);
-//Задача 8
+//Задача 8                                         Допускаю что в этой задачи ошибся - если это так - то я исправлю
         int mashaPay = 67760;
         int denisPay = 83690;
         int kristinaPay = 76230;
